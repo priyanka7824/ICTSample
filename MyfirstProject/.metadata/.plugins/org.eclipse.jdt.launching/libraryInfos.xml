@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\DELL\Desktop\JDK" version="1.8.0_231">
+<bootpath>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\resources.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\rt.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\sunrsasign.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\jsse.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\jce.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\charsets.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\jfr.jar"/>
+<entry path="C:\Users\DELL\Desktop\JDK\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\DELL\Desktop\JDK\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
